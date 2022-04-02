@@ -5,7 +5,7 @@ var CAPTION = 'Source: UNHCR';
 
 // Add download link to the caption
 CAPTION += '<br><a href="https://github.com/Adrianarizik/line-chart-exercise" style="color:blue">View data and code</a>, \
-created by Adriana Rizik
+created by Adriana Rizik \
 with <a href="https://www.highcharts.com/" style="color: blue">Highcharts</a>';
 
 // x-axis label and label in tooltip
