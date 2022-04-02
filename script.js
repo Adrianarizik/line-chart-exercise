@@ -4,9 +4,8 @@ var TITLE = 'Number of Venezuelans Seeking Asylum in the US is Steadily Rising';
 var CAPTION = 'Source: UNHCR';
 
 // Add download link to the caption
-CAPTION += '<br><a href="https://github.com/Adrianarizik/line-chart-exercise" style="color:blue">View data and code</a>, \
-created by Adriana Rizik \
-with <a href="https://www.highcharts.com/" style="color: blue">Highcharts</a>';
+CAPTION += '<br><a href="https://github.com/HandsOnDataViz/highcharts-line-annotated" style="color:blue">View data and code</a>, \
+created by <a href="https://handsondataviz.org/" style="color: blue">HandsOnDataViz</a> \
 
 // x-axis label and label in tooltip
 var X_AXIS = 'Year';
